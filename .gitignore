@@ -1,0 +1,7 @@
+/ConsumerConsoleApp/bin
+/ConsumerConsoleApp/obj
+/ProducerAPI/bin
+/ProducerAPI/obj
+/ProducerAPI/ProducerAPI
+/ProducerAPI/appsettings.Development.json
+/ProducerAPI/ProducerAPI.csproj.user
