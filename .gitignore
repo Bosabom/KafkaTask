@@ -2,8 +2,7 @@
 /ConsumerConsoleApp/obj
 /ProducerAPI/bin
 /ProducerAPI/obj
-/ProducerAPI/ProducerAPI
+.vs/
+/ProducerAPI/.vs/ProducerAPI
 /ProducerAPI/appsettings.Development.json
 /ProducerAPI/ProducerAPI.csproj.user
-/ProducerAPI/.vs/ProducerAPI/config/applicationhost.config
-/ProducerAPI/.vs/ProducerAPI/v16
