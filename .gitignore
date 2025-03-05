@@ -5,4 +5,5 @@
 /ProducerAPI/ProducerAPI
 /ProducerAPI/appsettings.Development.json
 /ProducerAPI/ProducerAPI.csproj.user
-/ProducerAPI/.vs/ProducerAPI
+/ProducerAPI/.vs/ProducerAPI/config/applicationhost.config
+/ProducerAPI/.vs/ProducerAPI/v16
